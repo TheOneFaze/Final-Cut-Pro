@@ -1,0 +1,50 @@
+{
+  "name": "My Example Source",
+  "subtitle": "A source for all of my apps",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
+  "website": "https://altstudio.app",
+  "patreonURL": "https://patreon.com/altstudio",
+  "tintColor": "#6156e2",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "Final Cut Pro",
+      "bundleIdentifier": "com.apple.FinalCutApp",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/Y335zZH.png",
+      "tintColor": "#7e7e80",
+      "category": "developer",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://www.dropbox.com/scl/fi/1lopqu6a1b2gtc5hh2qg4/Final-Cut-Pro-for-iPad-v2.2.1-iPad-PI-FW-64bit-os170-ok18-user_hidden.bfi2.ipa?rlkey=foyj78nvxnam1knyoo5c1okod&e=1&st=ny11o4qr&dl=1",
+          "size": 778700000,
+          "version": "2.2.1",
+          "buildVersion": null,
+          "date": "2025-08-27T09:46:00+01:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "This will allow “Final Cut Pro” to find and connect with Bluetooth accessories. This app may also use Bluetooth to know when you're nearby.",
+          "NSCameraUsageDescription": "Allow camera access to record video.",
+          "NSHumanReadableCopyright": "Copyright © 2023 Apple Inc. All rights reserved.",
+          "NSLocalNetworkUsageDescription": "This app will be able to discover and connect to devices you use. You can also transfer files from other devices.",
+          "NSAccentColorName": "AccentColor",
+          "NSMicrophoneUsageDescription": "Allow microphone access to record audio.",
+          "NSLocationWhenInUseUsageDescription": "Your location is used to tag where videos are taken.",
+          "NSPhotoLibraryUsageDescription": "Your Photo Library is needed to access media and save videos."
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
